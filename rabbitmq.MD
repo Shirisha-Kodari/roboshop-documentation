@@ -5,7 +5,7 @@ RabbitMQ is a messaging Queue which is used by some components of the applicatio
 **Versions of the DB Software you will get context from the developer, Meaning we need to check with developer.**
 **Developer has shared the version information as RabbitMQ-3.x**
 
-Setup the RabbitMQ repo file. You can create file using
+Setup the RabbitMQ repo file. You can create file using 
 
 ```
 vim /etc/yum.repos.d/rabbitmq.repo
