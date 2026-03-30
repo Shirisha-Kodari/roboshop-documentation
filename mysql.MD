@@ -6,7 +6,7 @@ Developer has chosen the database MySQL. Hence, we are trying to install it up a
 **Developer has shared the version information as MySQL-8.x**
 
 Install MySQL Server 
-
+ 
 ```shell 
 dnf install mysql-server -y
 ```
